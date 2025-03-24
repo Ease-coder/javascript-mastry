@@ -1,0 +1,1 @@
+new Sports("kapil", 7);
